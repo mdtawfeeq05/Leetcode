@@ -12,6 +12,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/mdtawfeeq05/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/mdtawfeeq05/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/mdtawfeeq05/Leetcode/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/mdtawfeeq05/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mdtawfeeq05/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mdtawfeeq05/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
