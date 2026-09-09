@@ -15,4 +15,12 @@
 | [1729-find-followers-count](https://github.com/mdtawfeeq05/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mdtawfeeq05/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mdtawfeeq05/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/mdtawfeeq05/Leetcode/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/mdtawfeeq05/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
